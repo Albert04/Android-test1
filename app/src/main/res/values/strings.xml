@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Safari Tz</string>
+    <string name="don_t_have_an_account">Don\'t have an account?</string>
+    <string name="sign_up">SIGN UP</string>
+    <string name="your_email">Your Email</string>
+    <string name="password">Password</string>
+</resources>
